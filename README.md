@@ -1,6 +1,8 @@
 <center>
+<p>
+  ![GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
-![GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
+</p>
 
 </center>
 
