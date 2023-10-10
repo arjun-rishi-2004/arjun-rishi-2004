@@ -1,5 +1,6 @@
-<h1 align="center">![GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
-</h1>
+<div style="text-align:center">
+    <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="GIF">
+</div>
 
 
 <h1 align="center">Greetings! 👋 I'm Arjun Rishi</h1>
