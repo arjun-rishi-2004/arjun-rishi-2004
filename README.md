@@ -1,5 +1,4 @@
-![GIF](https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh)
-[View on GIPHY](https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh)
+![GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
 
 <h1 align="center">Greetings! 👋 I'm Arjun Rishi</h1>
