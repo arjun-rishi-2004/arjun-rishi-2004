@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="GIF">
-</p>
 
 
 
-<h1 align="center">Greetings! 👋 I'm Arjun Rishi</h1>
+<h1 align="center">Vannakam ! 👋 I'm Arjun Rishi</h1>
 <h3 align="center">Enthusiastic Computer Science Engineer</h3>
 
 # 💫 About Me:
